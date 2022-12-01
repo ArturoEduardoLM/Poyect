@@ -17,4 +17,6 @@ contadorf = 0;
 exponente = gradoPolinomio
 x = int(input("Ingresa el valor de x: "))
 while contadorf <= gradoPolinomio:
-
+ coeficiente = coeficientesPolinomio[contadorf]
+    funcion = (int(coeficiente)*int(x))**int(exponente)
+    polinomio = polinomio + int(funcion)
