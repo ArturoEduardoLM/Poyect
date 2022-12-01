@@ -22,3 +22,5 @@ while contadorf <= gradoPolinomio:
     polinomio = polinomio + int(funcion)
     contadorf+=1
     exponente-=1
+    print("Los coeficientes son: " + str(coeficientesPolinomio))
+print("EL resultado del polinomio evaluado en " + "(" + str(x) + ")" + " es: " + str(polinomio) )
