@@ -16,3 +16,5 @@ polinomio = 0;
 contadorf = 0;
 exponente = gradoPolinomio
 x = int(input("Ingresa el valor de x: "))
+while contadorf <= gradoPolinomio:
+
