@@ -1,6 +1,5 @@
-Polinomio = 0
-coeficientesPoli = []
+gradoPolinomio = 0
+coeficientesPolinomio = []
 coeficientes = 0
 contador= 0
-contador2 = 0
-
+contadorc = 0
